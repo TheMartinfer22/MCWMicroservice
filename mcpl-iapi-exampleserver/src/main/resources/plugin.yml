@@ -1,0 +1,4 @@
+name: Iapiexampleserver
+version: '${project.version}'
+main: dev.nanosync.iapiexampleserver.Iapiexampleserver
+api-version: 1.15
